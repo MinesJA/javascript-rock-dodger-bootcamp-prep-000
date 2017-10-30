@@ -74,6 +74,7 @@ function createRock(x) {
         //top = `${top + 2}px`
       }
         console.log("4/5 At end of moveRock")
+        rock.style.top = `${top + 2}px`
 
         ROCKS.push(rock)
         return rock
