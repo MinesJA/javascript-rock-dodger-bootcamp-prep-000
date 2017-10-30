@@ -83,8 +83,6 @@ function createRock(x) {
 
   }
 
-}
-
 /**
  * End the game by clearing `gameInterval`,
  * removing all ROCKS from the DOM,
